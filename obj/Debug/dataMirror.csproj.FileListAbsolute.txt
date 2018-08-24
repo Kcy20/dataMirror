@@ -1,0 +1,9 @@
+C:\Users\usa\Desktop\LogViewer-master\LogViewer-master\bin\Debug\Data Mirror 1.0.exe
+C:\Users\usa\Desktop\LogViewer-master\LogViewer-master\bin\Debug\Data Mirror 1.0.pdb
+C:\Users\usa\Desktop\LogViewer-master\LogViewer-master\obj\Debug\dataMirror.csprojResolveAssemblyReference.cache
+C:\Users\usa\Desktop\LogViewer-master\LogViewer-master\obj\Debug\LogViewer.LogForm.resources
+C:\Users\usa\Desktop\LogViewer-master\LogViewer-master\obj\Debug\LogViewer.Properties.Resources.resources
+C:\Users\usa\Desktop\LogViewer-master\LogViewer-master\obj\Debug\dataMirror.csproj.GenerateResource.cache
+C:\Users\usa\Desktop\LogViewer-master\LogViewer-master\obj\Debug\dataMirror.csproj.CoreCompileInputs.cache
+C:\Users\usa\Desktop\LogViewer-master\LogViewer-master\obj\Debug\Data Mirror 1.0.exe
+C:\Users\usa\Desktop\LogViewer-master\LogViewer-master\obj\Debug\Data Mirror 1.0.pdb
